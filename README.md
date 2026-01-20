@@ -1,7 +1,7 @@
 -  Hi, I’m @dreylarson
 -  I’m interested in front-end development as well as programming!
 -  I’m currently studying web development at Wiregrass Technical College
--  I’m looking to collaborate on website development (HTML5, CSS, JS) mainly, but I love programming (Python) practice!
+-  I’m looking to collaborate on website development (HTML5, CSS, JS) mainly, but I love programming (Python/PHP/SQL) practice!
 -  You can reach me at dreylarson@gmail.com
 
 <!---
