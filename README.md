@@ -1,8 +1,26 @@
--  Hi, I’m @dreylarson
--  I’m interested in front-end development as well as programming!
--  I’m currently studying web development at Wiregrass Technical College
--  I’m looking to collaborate on website development (HTML5, CSS, JS) mainly, but I love programming (Python/PHP/SQL) practice!
--  You can reach me at dreylarson@gmail.com
+# Hi, I'm Drey 👋
+
+I'm a web development student at Wiregrass Georgia Technical College focused on building responsive, clean websites and small web apps.
+
+## What I'm working on
+- Building a 2D psychological horror game in Unity (C#): Sermons of the Machine
+- Portfolio projects (front-end + full-stack practice)
+- Freelance-ready websites (HTML, CSS, JavaScript)
+- Back-end practice with PHP + SQL
+
+## Tech I use
+- HTML5, CSS3, JavaScript
+- PHP, SQL
+- Python
+- C#
+
+## Goals for 2026
+- Launch demo for Sermons of the Machine
+- Ship multiple polished portfolio projects on GitHub
+- Land an entry-level web dev / IT role and keep freelancing on the side
+
+## Contact
+- Email: dreylarson@gmail.com
 
 <!---
 dreylarson/dreylarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
