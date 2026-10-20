@@ -1,25 +1,24 @@
 # Hi, I'm Drey 👋
 
-I'm a web development student at Wiregrass Georgia Technical College focused on building responsive, clean websites and small web apps.
+I'm an aspiring software developer with a focus on frontend development, with experience building web and mobile applications using JavaScript, TypeScript, React Native, and related technologies.
 
 ## What I'm working on
-- Building a 2D psychological horror game in Unity (C#): Sermons of the Machine
-- Portfolio projects (front-end + full-stack practice)
-- Freelance-ready websites (HTML, CSS, JavaScript)
-- Back-end practice with PHP + SQL
+I'm the technical co-founder and sole developer of GymJamz, a location-based social music application. I'm also expanding my experience with C# and Unity through independent game development.
 
 ## Tech I use
-- HTML5, CSS3, JavaScript
+- React Native, TypeScript, Expo
+- HTML5, CSS3, SCSS, JavaScript
 - PHP, SQL
 - Python
-- C#
+- C# and Unity (currently learning)
 
 ## Goals for 2026
-- Launch demo for Sermons of the Machine
-- Ship multiple polished portfolio projects on GitHub
-- Land an entry-level web dev / IT role and keep freelancing on the side
+I'm on track to complete my Website Application Developer technical certificate at Wiregrass Georgia Technical College in December 2026.
+
+I'm preparing to pursue entry-level software development opportunities, with a particular interest in frontend, mobile, and full-stack development. I'm open to remote opportunities and relocation throughout the United States.
 
 ## Contact
+- Portfolio: https://dreylarson.github.io/
 - Email: dreylarson@gmail.com
 
 <!---
